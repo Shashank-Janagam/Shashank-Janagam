@@ -1,42 +1,37 @@
-<h1 align="center">✨ Hey there! I'm <span style="color:#007acc;">Shashank Janagam</span> 👋</h1>
+<!-- 🌟 Stylish Galaxy Theme + Yellow Accent Profile README -->
 
-<p align="center">
-  💻 Full Stack Developer | ⚡ AI & Web Enthusiast | 🧠 Life-Long Learner <br />
-  🚀 Passionate about React ⚛️, Firebase 🔥, and Building Scalable WebApps 🌐
-</p>
+<h1 align="center">
+  🌌 Hi there, I'm <strong style="color: #FFD700;">Shashank Janagam</strong> 🚀
+</h1>
 
-<br />
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Engineering+Student👨‍🎓;Full+Stack+Developer🧑‍💻;Always+Learning+New+Things🧠;Love+Building+Projects❤️;&center=true&width=500&height=40&color=F7DF1E&vCenter=true&size=20" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&lines=Engineering+Ideas+into+Reality;Full-stack+Web+Dev+%7C+AI+Explorer+%7C+MERN+Fanboy;Keep+Learning.+Keep+Building.+Keep+Shipping." />
+</h1>
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-</p>
+![HTML](https://img.shields.io/badge/HTML5-4B3F72?style=for-the-badge&logo=html5&logoColor=FFD700)
+![CSS](https://img.shields.io/badge/CSS3-4B3F72?style=for-the-badge&logo=css3&logoColor=FFD700)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-4B3F72?style=for-the-badge&logo=typescript&logoColor=FFD700)
+![React](https://img.shields.io/badge/React-4B3F72?style=for-the-badge&logo=react&logoColor=FFD700)
+![Node.js](https://img.shields.io/badge/Node.js-4B3F72?style=for-the-badge&logo=nodedotjs&logoColor=FFD700)
+![Express.js](https://img.shields.io/badge/Express.js-4B3F72?style=for-the-badge&logo=express&logoColor=FFD700)
+![MongoDB](https://img.shields.io/badge/MongoDB-4B3F72?style=for-the-badge&logo=mongodb&logoColor=FFD700)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-4B3F72?style=for-the-badge&logo=tailwind-css&logoColor=FFD700)
+![Firebase](https://img.shields.io/badge/Firebase-FFD700?style=for-the-badge&logo=firebase&logoColor=000000)
+![Python](https://img.shields.io/badge/Python-4B3F72?style=for-the-badge&logo=python&logoColor=FFD700)
+![Java](https://img.shields.io/badge/Java-4B3F72?style=for-the-badge&logo=java&logoColor=FFD700)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shashank-Janagam&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank-Janagam&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shashank-Janagam&show_icons=true&theme=tokyonight&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=0,000000,2d1a50" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shashank-Janagam&theme=tokyonight&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&background=0,000000,2d1a50" width="48%" />
 </p>
 
 ---
@@ -44,41 +39,27 @@
 ## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/shashijanagam?theme=dark&font=Baloo+Bhai&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/shashijanagam?ext=heatmap&theme=dark&font=Fira+Code&border_radius=15&bg=000000&title_color=FFD700&text_color=ffffff&icon_color=FFD700&heatmap=yellow" width="47%" />
 </p>
 
 ---
 
-## 🔗 Connect With Me
+## 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/shashank-janagam" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Shashank-Janagam" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shashank-janagam-532b66291/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-4B3F72?style=for-the-badge&logo=linkedin&logoColor=FFD700" />
+  </a>
+  <a href="mailto:shashankjanagam04@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FFD700?style=for-the-badge&logo=gmail&logoColor=000000" />
+  </a>
+  <a href="https://leetcode.com/shashijanagam/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-4B3F72?style=for-the-badge&logo=leetcode&logoColor=FFD700" />
+  </a>
 </p>
-
----
-
-## 🚀 Projects & Goals
-
-- 🌍 **GeoOrbit** – Smart, real-time employee tracking & meeting platform
-- 🤖 Integrating **AI Tools** like OpenAI & Gemini into my projects
-- 🎯 Constantly refining skills in MERN Stack, WebRTC, Firebase Auth & Cloud Functions
-
----
-
-## ✨ Fun Facts
-
-- 🧪 I experiment with code like a mad scientist 👨‍🔬
-- 🧩 Debugging is like solving puzzles 🧠
-- 🛠 I love breaking things to learn how they’re built 😎
 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://komarev.com/ghpvc/?username=Shashank-Janagam&color=FFD700&style=flat-square" />
 </p>
-
----
-
-<p align="center">⭐️ If you like what I do, star my repositories and let's connect! ⭐️</p>
